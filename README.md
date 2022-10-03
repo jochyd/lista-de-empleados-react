@@ -4,7 +4,7 @@ Aplicacion web que permite reutilizar el componente. Practicamos el uso de props
 
 ## Demo del proyecto
 
-Proba la demo de la lista de tareas del siguiente link: [Demo lista Empleados](https://paleta-de-colores-react.netlify.app/)
+Proba la demo de la lista de tareas del siguiente link: [Demo lista Empleados](https://lista-de-empleados-react.netlify.app/)
 
 ## Pasos para probar el proyecto
 
